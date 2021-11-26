@@ -128,7 +128,7 @@
     }
     .gallery {
         grid-template-columns: 1fr;
-        grid-gap: 20px;
+        grid-gap: 15px;
         margin-top: 9px;
     }
     .single_gallery {
