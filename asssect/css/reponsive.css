@@ -10,8 +10,11 @@
         padding: 2px 0;
     }
     .header {
-        padding: 2px 0;
-    }
+        display: grid;
+        grid-template-columns: 1fr;
+        align-items: center;
+        padding: 15px 0;
+}
     .logo {
         text-align: center;
         line-height: 11px;
@@ -20,6 +23,9 @@
         font-size: 11px;
         font-weight: 500;
         margin-left: 2px;
+    }
+    .menu{
+        display: none;
     }
     .menu ul li {
         margin-left: 4px;
