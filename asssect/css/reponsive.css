@@ -76,7 +76,7 @@
     }
     .single_about {
         padding: 5px;
-        margin: 0 20px;
+        margin: 0 6px;
     }
     .single_about i {
         height: 30px;
@@ -105,6 +105,7 @@
     }
     .singel_service {
         padding: 5px;
+        margin: 6px;
     }
     .singel_service h4 {
         font-size: 16px;
